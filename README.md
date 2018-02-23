@@ -1,32 +1,32 @@
-# Instructions
+
+
+# Feature Requirements
 
 1. Build an address book using the attached wireframe. All contacts should be
-  1. listed on the left-hand side,
-  2. be searchable,
-  3. and can be toggled to view their full details in the main view.
-  
-  We are not too concerned about the styling of your address book. Try to make it look as close to the mockup as you can, but no points will be deducted if you cannot have styling match
+- listed on the left-hand side,
+- be searchable,
+- and can be toggled to view their full details in the main view.
 
 2. Contacts should be editable in the main view.
 
-3. Use Angular filters, services/factories, directives, and some built-in directives where appropriate.
+3. I can navigate directly to a contact based on some url (hint! use routing)
 
-4. BONUS: Use the ng-router. (See Dependencies #2)
+We are not too concerned about the styling of your address book. Try to make it look as close to the mockup as you can, but no points will be deducted if you cannot have styling match
 
-5. BONUS++: Provide Jasmine/Karma tests for all of your components.
+# Technical Requirements
 
-6. Send us a link to your repo to view it. DO NOT create a fork of this repo. Instead, make a copy of it. 
+1. Send us a link to your repo to view it. DO NOT create a fork of this repo. Instead, make a copy of it. 
 
+2. Please provide unit / integration tests where appropriate
 
-NOTE: use the contacts.json file in the public folder to populate the Address Book.
+3. Please use NodeJS + GraphQL as your API, and React+Redux in the frontend.
 
-## Dependencies
-1. Angular 1.4.7
-2. Angular Router (https://code.angularjs.org/1.4.7/docs/api/ngRoute)
+4. For reference, you can use the contacts.json file in the public folder to get an idea of the data for each contact.
 
-## Installation
+# How we will evaluate
 
-1. Install Node and NPM
-2. Run npm install to install the dependencies.
-3. Start the server: `node server.js`
-4. View in browser at `http://localhost:8080`
+1. Speed: At Edvisor we live and breathe the TechStars mantra of "do more faster". As such, we care about moving fast. If you are new to these technologies, your speed will show us how quickly you can learn and adapt to changing technologies. If you're not new to these technologies, you will understand that this assignment is fairly basic and shouldn't take too much time to complete.
+
+2. Accuracy: Tests should be used to PROVE that what you've built is doing what it is meant to do. We will evaluate how you structure your tests, your use of mocks/stubs (if necessary), and your understanding of testing concepts.
+
+3. Quality: We will evaluate your code architecture, system architecture, maintainability, and core undertanding of the technologies used.
