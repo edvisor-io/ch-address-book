@@ -30,4 +30,4 @@ We are not too concerned about the styling of your address book. Try to make it 
 > Tests should be used to PROVE that what you've built is doing what it is meant to do. We will evaluate how you structure your tests, your use of mocks/stubs (if necessary), and your understanding of testing concepts.
 
 3. Quality
-> We will evaluate your code architecture, system architecture, maintainability, and core undertanding of the technologies used.
+> We will evaluate your code architecture, system architecture, maintainability, and core understanding of the technologies used.
