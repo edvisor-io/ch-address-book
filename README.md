@@ -23,11 +23,11 @@ We are not too concerned about the styling of your address book. Try to make it 
 
 # How we will evaluate
 
-1. Speed
-> At Edvisor we live and breathe the TechStars mantra of "do more faster". As such, we care about moving fast. If you are new to these technologies, your speed will show us how quickly you can learn and adapt to changing technologies. If you're not new to these technologies, you will understand that this assignment is fairly basic and shouldn't take too much time to complete.
+1. Quality
+> We will evaluate your code architecture, system architecture, maintainability, and core understanding of the technologies used.
 
 2. Accuracy
 > Tests should be used to PROVE that what you've built is doing what it is meant to do. We will evaluate how you structure your tests, your use of mocks/stubs (if necessary), and your understanding of testing concepts.
 
-3. Quality
-> We will evaluate your code architecture, system architecture, maintainability, and core understanding of the technologies used.
+3. Speed
+> At Edvisor we live and breathe the TechStars mantra of "do more faster". As such, we care about moving fast. If you are new to these technologies, your speed will show us how quickly you can learn and adapt to changing technologies. If you're not new to these technologies, you will understand that this assignment is fairly basic and shouldn't take too much time to complete.
